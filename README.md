@@ -47,7 +47,7 @@
 
 **call me:** +7 912 541 20 01
 
-**write me in telegram:** @w1shmaster
+**write me on telegram:** @w1shmaster
 
 **send email:** rpegorov@icloud.com
 
