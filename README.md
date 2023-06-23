@@ -1,12 +1,11 @@
 
 <h1 align="center">Hi there, I'm <a href="https://github.com/rpegorov" target="_blank">Rostislav</a> 
   
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="52"/></h1>
+<img src="https://media.tenor.com/G78MfVfnwpYAAAAi/desktop-computer-new-computers.gif" height="240"/></h1>
 
-<h3 align="center">Now I am engaged in java development and I test myself in full-stack development</h3>
+<h3 align="center">Rostislav is a backend developer based in Russia with a passion for creating digital services/stuff solving complex problems and finding non-standard solutions. He has a knack for all things launching products, from planning and designing all the way to solving real-life problems with code.</h3>
 
 <h3 aling="left">Currently my tech stack is:</h3>
-
 
 - Java
 - Spring
