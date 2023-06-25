@@ -3,7 +3,7 @@
   
 <img src="https://media.tenor.com/G78MfVfnwpYAAAAi/desktop-computer-new-computers.gif" height="240"/></h1>
 
-<h3 align="center">Rostislav is a backend developer based in Russia with a passion for creating digital services/stuff solving complex problems and finding non-standard solutions. He has a knack for all things launching products, from planning and designing all the way to solving real-life problems with code.</h3>
+<h3 align="center">I`m a backend developer with a passion for creating digital services/stuff solving complex problems and finding non-standard solutions. I know for all things launching products, from planning and designing all the way to solving real-life problems with code.</h3>
 
 <h3 aling="left">Currently my tech stack is:</h3>
 
