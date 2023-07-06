@@ -7,24 +7,24 @@
 
 <h3 aling="left">Currently my tech stack is:</h3>
 
-- Java
-- Spring
-- JavaScript
-- TypeScript
-- Node.JS
-- Express.JS
-- PHP 7-8
-- Symfony 4-6
-- Doctrine
-- PostgreSql
-- Redis
-- SQL
-- Docker
-- Feing client  
-- Hibernate
-- Liquibase
-- ClickHouse
-- JUnit
+ * Java
+    * Spring
+    * Feing client
+    * Hibernate
+    * Liquibase
+    * JUnit
+ * JavaScript
+   * TypeScript
+   *  Node.JS
+   *  Express.JS
+* PHP
+  * Symfony
+  * Doctrine
+* PostgreSql
+* Redis
+* SQL
+* Docker
+* ClickHouse
 
 *PS: It should be understood that some technologies are at the junior level(those related to the frontend), there are basic concepts and the ability to read and understand code, it is possible to write from tutorials. Specify details personally.*
 
