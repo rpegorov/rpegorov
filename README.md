@@ -9,12 +9,10 @@
 
  * Java
     * Spring
-    * Feing client
     * Hibernate
-    * Liquibase
     * JUnit
  * JavaScript
-   * TypeScript
+   *  TypeScript
    *  Node.JS
    *  Express.JS
 * PHP
