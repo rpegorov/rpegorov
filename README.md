@@ -7,6 +7,9 @@
 
 <h3 aling="left">Currently my tech stack is:</h3>
 
+* Golang
+  * Fiber
+  * GORM
  * Java
     * Spring
     * Hibernate
@@ -19,6 +22,7 @@
   * Symfony
   * Doctrine
 * PostgreSql
+* MongoDB
 * Redis
 * SQL
 * Docker
@@ -36,6 +40,7 @@
 - MacBoock PRO 14 m1pro
 - IntelliJ IDEA
 - VSCode
+- Zed
 - PGAdmin
 - DBeaver
 - Postman
