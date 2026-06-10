@@ -7,6 +7,8 @@
 
 <h3 aling="left">Currently my tech stack is:</h3>
 
+* RUST
+  * TOKIO
 * Golang
   * Fiber
   * GORM
